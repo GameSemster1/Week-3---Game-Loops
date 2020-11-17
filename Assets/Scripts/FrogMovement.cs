@@ -96,8 +96,7 @@ public class FrogMovement : MonoBehaviour
             {
                 transform.position = new Vector3(x, y-jump, 0f);
             }
-            
-            
+              
         }
         
         transform.position = new Vector3
